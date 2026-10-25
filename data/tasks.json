@@ -1,0 +1,6 @@
+[
+  {"title": "Read the project structure lesson", "completed": true},
+  {"title": "Split the application into modules", "completed": false},
+  {"title": "Write the Quick Start", "completed": false},
+  {"title": "Check the virtual environment", "completed": true}
+]
